@@ -17,7 +17,7 @@ const AboutUs = () => (
         <button type="button" className="custom__button"> Know more </button>
       </div>
 
-      <div className="app__aboutus-center flex__center">
+      <div className="app__aboutus-content flex__center">
          <img src={images.knife} alt="knife"/>
       </div>
 
