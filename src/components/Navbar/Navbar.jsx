@@ -15,11 +15,11 @@ const Navbar = () => {
       <img src={images.gericht} alt="geritch-logo"/>
     </div>
     <ul className="app__navbar-links"> 
-      <li classname="p__opensans"> <a href="#home">Home</a></li>
-      <li classname="p__opensans"> <a href="#about">About</a></li>
-      <li classname="p__opensans"> <a href="#menu">Menu</a></li>
-      <li classname="p__opensans"> <a href="#award">Awards</a></li>
-      <li classname="p__opensans"> <a href="#contact">Contact</a></li>
+      <li className="p__opensans"> <a href="#home">Home</a></li>
+      <li className="p__opensans"> <a href="#about">About</a></li>
+      <li className="p__opensans"> <a href="#menu">Menu</a></li>
+      <li className="p__opensans"> <a href="#award">Awards</a></li>
+      <li className="p__opensans"> <a href="#contact">Contact</a></li>
     </ul>
     <div className="app__navbar-login"> 
         <a href="#login" className="p__opensans">Log In / Register</a>
