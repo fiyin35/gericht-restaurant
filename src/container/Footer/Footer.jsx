@@ -8,7 +8,7 @@ import './Footer.css';
 const Footer = () => (
   <React.StrictMode>
   <div className="app__footer app__bg section__padding" id="login">
-    <FooterOverlay />
+    {/* <FooterOverlay /> */}
     <Newsletter /> 
 
     <div className="app__footer-links">
